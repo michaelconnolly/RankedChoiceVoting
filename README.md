@@ -36,9 +36,9 @@ Now open the results in Google sheets, and open up the Apps Script page, paste i
 
 ## output
 
-The script should tally the results and provide the winner.
+The script should tally the results and output a table of results at the bottom of the tally sheet:
 
-In an example above for Best Haloween Candy:
+In an example I ran recently for Best Haloween Candy:
 | New Round! | New Round!  | New Round! | WINNER!       |
 | ---------- | ----------- | ---------- | ------------- |
 | Remove:    | Remove:     | Remove:    | Reese PB Cups |
