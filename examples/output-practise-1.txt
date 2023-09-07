@@ -1,0 +1,12 @@
+8:09:34 AM	Notice	Execution started
+8:09:34 AM	Info	################################ Start
+8:09:34 AM	Info	Create New Form: Sample-Vote-1
+8:09:36 AM	Info	Voting Key ID: 889409426
+8:09:36 AM	Info	New Race: Best Candy
+8:09:36 AM	Info	New Race: Best Seahawk
+8:09:37 AM	Info	New Race: Best District
+8:09:38 AM	Info	################################ Done
+8:09:38 AM	Info	Editor URL (internal): https://docs.google.com/forms/d/1OvNignEMZIjJW7S_DO74Tko2oxwG8SQ1pgnASyCZXwM/edit
+8:09:38 AM	Info	Published URL (public): https://docs.google.com/forms/d/e/1FAIpQLSfdAh_BZ8-QOJnkLQV6XcCuO1CuX_r65R7byvllFKPyCFgv8g/viewform
+8:09:38 AM	Info	PreFilled URL (for e-mail): https://docs.google.com/forms/d/e/1FAIpQLSfdAh_BZ8-QOJnkLQV6XcCuO1CuX_r65R7byvllFKPyCFgv8g/viewform?usp=pp_url&entry.102036203=XXXXX
+8:09:39 AM	Notice	Execution completed

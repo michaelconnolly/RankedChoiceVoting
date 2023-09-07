@@ -1,0 +1,15 @@
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\bin\Debug\net7.0\GenerateKeys.exe
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\bin\Debug\net7.0\GenerateKeys.deps.json
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\bin\Debug\net7.0\GenerateKeys.runtimeconfig.json
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\bin\Debug\net7.0\GenerateKeys.dll
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\bin\Debug\net7.0\GenerateKeys.pdb
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\GenerateKeys.csproj.AssemblyReference.cache
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\GenerateKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\GenerateKeys.AssemblyInfoInputs.cache
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\GenerateKeys.AssemblyInfo.cs
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\GenerateKeys.csproj.CoreCompileInputs.cache
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\GenerateKeys.dll
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\refint\GenerateKeys.dll
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\GenerateKeys.pdb
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\GenerateKeys.genruntimeconfig.cache
+C:\dev\RankedChoiceVoting\GenerateKeys\GenerateKeys\obj\Debug\net7.0\ref\GenerateKeys.dll
