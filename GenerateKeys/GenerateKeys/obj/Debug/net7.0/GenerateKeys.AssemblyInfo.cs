@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenerateKeys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38090acd819b9b9534266c96d7025ecb264b6a7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenerateKeys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenerateKeys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,7 +23,7 @@ foreach (string blackEntry in blacklist) {
 //Console.WriteLine(newChar);
 
 int countOfKeys = 0;
-int quota = 50;
+int quota = 500;
 Random random = new Random();
 
 
@@ -60,7 +60,9 @@ outputFile.Flush();
 outputFile.Close();
 
 
-
+// Feature idea: we should create a new file called "blacklist-new", which is the suggested new blacklist.
+// 1) write out all the original blacklist.
+// 2) write out all the new keys generated. 
 
 
 
